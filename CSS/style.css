@@ -1,0 +1,138 @@
+.logo{
+	display: inline-block;
+	color: #FA6980;
+	margin-left: 20px;
+
+}
+.header-wraper{
+	display:block;
+}
+.navigation{
+	display: inline-block;
+}
+body {
+	display: inline-block;
+	background-color:#F6F8F9 ;
+	width: 100%;
+}
+.head{
+	width:100%;
+	height: 59px;
+	position: fixed;
+}
+.nav-li{
+	display: inline-block;
+	padding: 20px 27px 18px 92px;
+}
+.img{
+	vertical-align: middle;
+}
+.div-block1{
+   margin-left:135px;
+   margin-top: 88px;
+   display: inline-block;
+}
+.div-img{
+	position: relative;
+}
+.p-title{
+	position: absolute;
+	right:40px ;
+	left: 40px;
+	top: 18px;
+	color: white;
+}
+.p-class{
+	 width: 280px;
+    font-size: 13px;
+    color: #A6ADB4;
+    margin-left: 40px;
+    display: inline-block;
+}
+h2{
+	margin: 40px 0 40px 15px;
+	font-size: 24px;
+}
+.i-block{
+	display: inline-block;
+	padding-bottom: 40px;
+	margin-right:35px;
+	width: 360px;
+	background-color: white;
+}
+.section2{
+	display: inline-block;
+}
+.imgs1{
+	display: inline-block;
+	width: 760px;
+}
+.imgs2{
+	width: 360px;
+	display: inline-block;
+	vertical-align: top;
+}
+.pic{
+ margin-bottom: 102px;
+ margin-left: 40px;
+}
+.pic1{
+	margin-bottom: 39px;
+}
+.div-block2{
+	margin-left: 135px;
+}
+.footer-ul{
+	display: inline-block;
+}
+.footer-wraper{
+	margin: 0 auto;
+	background-color: #A6ADB4;
+	height: 200px;
+	width: 100%
+}
+.logo2{
+	color: white;
+	margin-right: 50px;
+	vertical-align: top;
+	font-size: 15px;
+}
+.left-side{
+	display: inline-block;
+	width:489.1px ;
+   margin:56px 700px 60px 142px ;
+}
+.footer-ul1{
+	display: inline-block;
+}
+.footer-ul2{
+	display: inline-block;
+}
+.footer-ul3{
+	display: inline-block;
+}
+.footer-li{
+	margin-bottom: 8px;
+}
+.footer-a{
+	font-size: 13px;
+	color: #CBD0D3;
+	margin-right: 70.6px;
+}
+.footer-p{
+	display: inline-block;
+	margin-left: 110px;
+	padding-top: 56px;
+	vertical-align: top;
+	font-size: 13px;
+	color: #CBD0D3;
+}
+.s-icons{
+	display: inline-block;
+	margin-left: 157px;
+	margin-top: 56px;
+	vertical-align: top;
+}
+.icons{
+	margin-left: 40px;
+}
